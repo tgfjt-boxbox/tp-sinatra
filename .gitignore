@@ -1,0 +1,11 @@
+.DS_Store
+
+/vendor/bundle
+/vendor/bin
+
+# Gemfile.lock
+# .ruby-Version
+
+.bundle/
+
+*db
